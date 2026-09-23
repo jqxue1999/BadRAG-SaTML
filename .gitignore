@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+datasets/
+results/
+logs/
+wandb/
+contriever/
